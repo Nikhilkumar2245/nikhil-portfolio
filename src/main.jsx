@@ -37,9 +37,9 @@ const projects = [
     description:
       "A secure banking API with authentication, account management, ledger-based transactions, money transfers and transaction consistency.",
     tech: ["Node.js", "Express.js", "MongoDB", "JWT", "bcrypt", "Nodemailer"],
-    image: "/image/Backend-ledger.png",
-    live: "https://backend-ledger-4by9.onrender.com",
-    github: "https://github.com/Nikhilkumar2245/Backend-ledger"
+    image: "/image/Bank-ledger.png",
+    live: "https://ledger-banking-full-project.vercel.app/",
+    github: "https://github.com/Nikhilkumar2245/Ledger-Banking-Full-Project"
   }
 ];
 
